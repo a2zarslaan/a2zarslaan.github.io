@@ -1,0 +1,28 @@
+new site updated
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	modified:   .DS_Store
+#	modified:   README.md
+#	modified:   corona.html
+#	deleted:    css/.DS_Store
+#	new file:   css/grabbing.png.html
+#	modified:   css/responsive.css
+#	modified:   img/.DS_Store
+#	modified:   img/FullNameWhite.png
+#	deleted:    img/NightOut.jpg
+#	new file:   img/NightOut1.jpg
+#	new file:   img/background1 copy.jpg
+#	new file:   img/background11.jpg
+#	modified:   img/logoWhite.png
+#	copied:     img/logoWhite.png -> img/logoWhite2.png
+#	new file:   img/logoWhite3.png
+#	new file:   img/logowhite1.png
+#	modified:   index.html
+#	deleted:    index1.html
+#	modified:   js/.DS_Store
+#	modified:   style.css
+#
