@@ -1,3 +1,3 @@
-Visit www.amararslaan.com to see the final site.
+Visit a2zarslaan.github.io to see the final site.
 
-It is a personal portfolio site.
+A mobile first and responsive static website displaying my previous graphic design projects. Uses Bootstrap V3.2 for styling and interactivity, hosted on Github Pages. 
